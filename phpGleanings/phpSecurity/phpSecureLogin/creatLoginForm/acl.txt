@@ -1,0 +1,15 @@
+5 infinite access
+4 high access
+3 medium access
+2 low access
+1 deny access
+
+----------------------------------------
+user     password    acl
+admin1   admin1      5
+admin2   admin2      3
+admin3   admin3      2
+admin4   admin4      4
+guest    guest       1
+
+---------------------------------------- 
