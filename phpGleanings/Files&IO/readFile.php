@@ -13,7 +13,7 @@ if( $file == false )
     exit();
 }
 $fileSize = filesize( $filename );
-$fileText = fread( $file, $filesize );
+$fileText = fread( $file, $fileSize );
 
 fclose( $file );
 

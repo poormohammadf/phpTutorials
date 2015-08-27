@@ -4,7 +4,7 @@ $dbtype		= "mysql";
 $dbhost 	= "localhost";
 $dbname		= "test_db";
 $dbuser		= "root";
-$dbpass		= "";
+$dbpass		= "1";
 
 try{
     // database connection
@@ -29,7 +29,9 @@ $q->setFetchMode(PDO::FETCH_BOTH);
 
 // fetch
 while($r = $q->fetch()){
+    echo'<pre>';
     print_r($r);
+    echo'</pre>';
 }
 
 

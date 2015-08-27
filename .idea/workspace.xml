@@ -34,10 +34,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/phpPrimary/sendEmail/htmlEmail.php" />
-        <option value="$PROJECT_DIR$/phpPrimary/sendEmail/sendEmail.php" />
-        <option value="$PROJECT_DIR$/phpPrimary/sendEmail/attachmentEmail.php" />
-        <option value="$PROJECT_DIR$/phpAdvanced/error&amp;ExceptionHandling/fieFunction.php" />
         <option value="$PROJECT_DIR$/phpAdvanced/error&amp;ExceptionHandling/exceptionHandling.php" />
         <option value="$PROJECT_DIR$/phpAdvanced/error&amp;ExceptionHandling/customErrorHandleFunction.php" />
         <option value="$PROJECT_DIR$/phpAdvanced/error&amp;ExceptionHandling/customExceptionHandler.php" />
@@ -45,7 +41,6 @@
         <option value="$PROJECT_DIR$/phpAdvanced/date&amp;Time/convertTimeStamp.php" />
         <option value="$PROJECT_DIR$/phpAdvanced/date&amp;Time/getTimeStamp.php" />
         <option value="$PROJECT_DIR$/phpAdvanced/date&amp;Time/convertTimeStampDate.php" />
-        <option value="$PROJECT_DIR$/phpAdvanced/ajax/ajax-example.php" />
         <option value="$PROJECT_DIR$/phpAdvanced/ajax/ajax.html" />
         <option value="$PROJECT_DIR$/phpAdvanced/xml/htmlListValidXml.html" />
         <option value="$PROJECT_DIR$/phpAdvanced/xml/parseXml.php" />
@@ -85,6 +80,11 @@
         <option value="$PROJECT_DIR$/phpGleanings/phpSecurity/phpSecureLogin/creatLoginForm/secretPage.php" />
         <option value="$PROJECT_DIR$/phpGleanings/phpSecurity/phpSecureLogin/phpsecurepages/test3.php" />
         <option value="$PROJECT_DIR$/phpGleanings/phpSecurity/phpSecureLogin/phpsecurepages/test2.php" />
+        <option value="$PROJECT_DIR$/phpGleanings/errorHandling/pdoErrorHandling.php" />
+        <option value="$PROJECT_DIR$/phpGleanings/Files&amp;IO/writeFile.php" />
+        <option value="$PROJECT_DIR$/phpGleanings/Files&amp;IO/readFile.php" />
+        <option value="$PROJECT_DIR$/phpAdvanced/ajax/ajax-example.php" />
+        <option value="$PROJECT_DIR$/phpPrimary/fileInclusion/require.php" />
       </list>
     </option>
   </component>
@@ -257,39 +257,11 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="18" />
+      <option name="time" value="19" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/phpPrimary/session/startSession.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.116838485" vertical-offset="0" max-vertical-offset="582">
-          <caret line="4" column="30" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../myTest/session.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.35051546" vertical-offset="0" max-vertical-offset="582">
-          <caret line="12" column="10" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/phpPrimary/cookie/setCookie.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.32130584" vertical-offset="0" max-vertical-offset="582">
-          <caret line="11" column="7" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/phpPrimary/session/sessionWithoutCookie.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.65384614" vertical-offset="0" max-vertical-offset="272">
-          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/phpPrimary/session/visitorCounter.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.26288658" vertical-offset="0" max-vertical-offset="582">
@@ -378,13 +350,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.087628864" vertical-offset="0" max-vertical-offset="582">
           <caret line="3" column="45" selection-start-line="3" selection-start-column="45" selection-end-line="3" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/phpAdvanced/ajax/ajax.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-10.461538" vertical-offset="408" max-vertical-offset="1071">
-          <caret line="40" column="8" selection-start-line="40" selection-start-column="8" selection-end-line="40" selection-end-column="8" />
         </state>
       </provider>
     </entry>
@@ -585,12 +550,100 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/phpGleanings/settingConnectionAttributes/ConnectionAttributeSet.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.16838488" vertical-offset="98" max-vertical-offset="680">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1438001039931" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/phpAdvanced/ajax/ajax-example.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.99312717" vertical-offset="0" max-vertical-offset="918">
-          <caret line="34" column="0" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.8539519" vertical-offset="370" max-vertical-offset="1003">
+          <caret line="51" column="4" selection-start-line="51" selection-start-column="4" selection-end-line="51" selection-end-column="4" />
           <folding>
-            <marker date="1440343161835" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..." />
+            <marker date="1440688036181" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/phpGleanings/Files&amp;IO/readFile.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.43814433" vertical-offset="0" max-vertical-offset="582">
+          <caret line="15" column="38" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/phpGleanings/adodb/adoDbTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="608">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1438002682000" expanded="true" signature="-1:-1" placeholder="select * fro..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/phpGleanings/errorHandling/pdoErrorHandling.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.09450172" vertical-offset="13" max-vertical-offset="748">
+          <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+          <folding>
+            <marker date="1440686445059" expanded="true" signature="-1:-1" placeholder="SELECT `titl..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/phpAdvanced/ajax/ajax.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7302405" vertical-offset="255" max-vertical-offset="1071">
+          <caret line="40" column="8" selection-start-line="40" selection-start-column="8" selection-end-line="40" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/phpGleanings/Files&amp;IO/writeFile.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.029209621" vertical-offset="0" max-vertical-offset="646">
+          <caret line="1" column="26" selection-start-line="1" selection-start-column="26" selection-end-line="1" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/phpPrimary/fileInclusion/require.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.058419243" vertical-offset="0" max-vertical-offset="582">
+          <caret line="2" column="32" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/phpPrimary/fileInclusion/include.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="608">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/phpGleanings/phpSecurity/stringValidation.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="608">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/phpGleanings/phpSecurity/stringValidation.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.26975945" vertical-offset="336" max-vertical-offset="969">
+          <caret line="29" column="32" selection-start-line="29" selection-start-column="32" selection-end-line="29" selection-end-column="32" />
+          <folding>
+            <marker date="1438612527143" expanded="true" signature="-1:-1" placeholder="SELECT count..." />
           </folding>
         </state>
       </provider>
